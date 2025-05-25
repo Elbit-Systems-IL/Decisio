@@ -12,10 +12,6 @@ Decide With Intelligence
   <strong>DominionX Ready</strong>
 </p>
 
-<p align="center">
-  <em>ON-THE-FLY INTELLIGENCE</em>
-</p>
-
 ---
 
 <p align="center">
