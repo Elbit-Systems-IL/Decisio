@@ -9,7 +9,7 @@ Decide With Intelligence
 <h1 align="center">DECIS.IO</h1>
 
 <p align="center">
-  <strong>DominionX Ready</strong>
+  <strong>Dominion-X Ready</strong>
 </p>
 
 ---
