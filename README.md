@@ -1,7 +1,12 @@
-<!-- Dark Banner (Optional, upload a matching image like 'decisio_dark_banner.png') -->
 <p align="center" style="background: linear-gradient(90deg, #010409 0%, #161b22 100%); padding: 1.5rem 0; border-radius: 8px;">
-  <img src="decisio_cammilion_wo_typo.png" alt="Decisio Logo" width="260" style="filter: drop-shadow(0 0 8px #58a6ff);" />
+  <img 
+    src="decisio_cammilion_wo_typo.png" 
+    alt="Decisio Logo" 
+    width="260" 
+    style="background-color: #0d1117; border-radius: 12px; filter: drop-shadow(0 0 8px #58a6ff);" 
+  />
 </p>
+
 
 <!-- Project Title -->
 <h1 align="center" style="color:#58a6ff; font-family: 'Fira Mono', monospace, monospace; font-weight: 700; letter-spacing: 2px; margin-top: 1rem;">
